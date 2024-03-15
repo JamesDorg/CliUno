@@ -16,6 +16,9 @@ class Character():
     
     def end_turn(self):
         self.save_point += 1
+    
+    def display(self):
+        
 
         
         
