@@ -1,5 +1,7 @@
 #main code here
 import character
+import card
+import help
 
 player = character.Character()
 player2 = character.Character()
