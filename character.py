@@ -18,7 +18,7 @@ class Character():
         self.save_point += 1
     
     def display(self):
-        
+        print(self.name)
 
         
         

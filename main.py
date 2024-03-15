@@ -29,7 +29,9 @@ def menu():
         elif num_players > 1:
             player.name = input("What is the next person's name? ")
 
-        
+
+def create():
+    pass
         
         
     
